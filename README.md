@@ -1,16 +1,61 @@
-## Hi there 👋
+-------------------------------------------------------
+👋 Hi, I'm Daniel Rodríguez
 
-<!--
-**Danccs/Danccs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Solutions Architect | .NET Architect | Azure | GenAI
 
-Here are some ideas to get you started:
+I design and build AI-powered enterprise solutions combining:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Generative AI
+🧠 AI Agents
+☁ Azure Cloud
+⚙ .NET
+📊 Power Platform
+👁 Computer Vision
+📚 RAG Systems
+
+Currently working on enterprise AI transformation, intelligent automation and multi-agent systems.
+
+-------------------------------------------------------
+
+🛠 Tech Stack
+
+Azure
+OpenAI
+Claude
+Ollama
+.NET
+C#
+Python
+SQL Server
+PostgreSQL
+Docker
+Kubernetes
+Power Platform
+React
+Blazor
+Azure Functions
+GitHub Actions
+
+-------------------------------------------------------
+
+🚀 Featured Projects
+
+⭐ AI Document Assistant
+⭐ Multi-Agent Framework
+⭐ Computer Vision Order Verification
+⭐ Enterprise RAG
+⭐ Castor Wallet
+
+-------------------------------------------------------
+
+📈 GitHub Stats
+
+(con tarjetas)
+
+-------------------------------------------------------
+
+📫 Contact
+
+LinkedIn
+Email
+Website
