@@ -84,17 +84,6 @@ Here are some of the repositories and projects I have developed:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danccs&show_icons=true&theme=tokyonight&count_private=true" alt="Danccs's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danccs&layout=compact&theme=tokyonight" alt="Danccs's Top Languages" height="195px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danccs&theme=tokyonight" alt="Danccs's Contribution Streak" />
-</p>
-
 ---
 
 <p align="center">
