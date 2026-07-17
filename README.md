@@ -1,11 +1,9 @@
-# README.md
-
 <!-- Header Banner -->
 <p align="center">
   <img src="github_banner.jpg" alt="Daniel Rodriguez Banner" width="100%">
 </p>
 
-<h1 align="center">Hi there, I'm Daniel Rodríguez! 👋</h1>
+<h1 align="center">Hi there, I'm Daniel! 👋</h1>
 
 <p align="center">
   <strong>AI Solutions Architect | .NET Architect | Azure Specialist | GenAI Pioneer</strong>
