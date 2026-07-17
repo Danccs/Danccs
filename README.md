@@ -11,11 +11,6 @@
   <strong>AI Solutions Architect | .NET Architect | Azure Specialist | GenAI Pioneer</strong>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/Danccs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:danccs.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://danccs.dev"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Website"></a>
-</p>
 
 <p align="center">
   I design and build enterprise solutions powered by <b>Artificial Intelligence</b> and high-performance cloud architectures. My focus fuses the power of Generative AI with the robustness and scalability of the .NET ecosystem on Microsoft Azure.
